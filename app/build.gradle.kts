@@ -63,6 +63,7 @@ dependencies {
     //Dagger - Hilt
     implementation("com.google.dagger:hilt-android:2.51.1")
     ksp("com.google.dagger:hilt-compiler:2.51.1")
+//    ksp("androidx.hilt:hilt-compiler:1.2.0")
 
     //Compose Navigation
     implementation("androidx.navigation:navigation-compose:2.7.7")
