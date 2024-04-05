@@ -1,4 +1,4 @@
-package sarankar.app.to_docompose.navigation.desinations
+package sarankar.app.to_docompose.navigation.destinations
 
 import androidx.navigation.NavGraphBuilder
 import androidx.navigation.NavType

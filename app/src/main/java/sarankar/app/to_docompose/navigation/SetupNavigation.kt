@@ -4,10 +4,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
-import androidx.navigation.compose.composable
-import androidx.navigation.compose.rememberNavController
-import sarankar.app.to_docompose.navigation.desinations.listComposable
-import sarankar.app.to_docompose.navigation.desinations.taskComposable
+import sarankar.app.to_docompose.navigation.destinations.taskComposable
+import sarankar.app.to_docompose.navigation.destinations.listComposable
 import sarankar.app.to_docompose.util.Constants
 
 @Composable
